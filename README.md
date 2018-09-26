@@ -37,7 +37,7 @@
 - How will these major findings affect the effectiveness and efficiency of human operators in process control (contributions to industries)
 - How will this research benefit user interface design research community (contributions to acadamia)
 - What data can you collect from the experimentsdescribed in this paper
-###  3. ==**Think deeper towards the following open questions**==
+###  3. Think deeper towards the following open questions
 - What are the limitations of this research
 - Any other hypotheses you would like to test given the conducted experiments in this research and what are the benefits to test your hypotheses (justification)
 - How can you improve the experiment design if you are the investigator
